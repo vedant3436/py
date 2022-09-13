@@ -1,4 +1,4 @@
-'''A Guess the number game, but to make it more convenient i put in conditions at instances where the program
+'''A Guess the number game, but to make it more convenient I put in conditions at instances where the program
 would give an error incase the user does not input a valid value, and when it does, it makes the person who 
 wrote the program (me) look a bit unprofessional. So to avoid that, I put in a personal error message which 
 solves that worry for me.
