@@ -1,4 +1,3 @@
-import beautifulsoup4
 from googlesearch import search
 
 query = input("What do you wanna search?\n")
